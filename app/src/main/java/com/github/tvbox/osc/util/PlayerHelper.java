@@ -146,7 +146,7 @@ public class PlayerHelper {
         } else if (playType == 8) {
             return "ucplayer";
         } else if (playType == 9) {
-            return "浏览器（可选）"; 
+            return "opera或系统浏览器"; 
         } else if (playType == 10) {
             return "MXPlayer";
         } else if (playType == 11) {
